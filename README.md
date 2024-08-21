@@ -20,11 +20,11 @@ A pivot table was then made to group countries spending data. The original data 
 
 
 ## Exploratory Analysis
-*Questions used to drive analysis were as follows:*
-"-" Is there a correlation between the percentage of health care spending on reproductive health and maternal conditions?
-"-" Is there a correlation between the percentage of health care spending on contraceptive and maternal conditions?
-"-" which countries spend the most on contraceptive, reproductive, and maternal health conditions as a percentage of their health care spending?
-"-"Are countries more likely to spend more in these areas based on their region (as classified by WHO region)? 
+*Questions used to drive analysis were as follows:*</br>
+- Is there a correlation between the percentage of health care spending on reproductive health and maternal conditions?</br>
+- Is there a correlation between the percentage of health care spending on contraceptive and maternal conditions?</br>
+- which countries spend the most on contraceptive, reproductive, and maternal health conditions as a percentage of their health care spending?</br>
+- Are countries more likely to spend more in these areas based on their region (as classified by WHO region)? </br>
 
 
 
