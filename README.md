@@ -12,7 +12,7 @@ The data used in this analysis was downloaded from the WHO Global Health Expendi
 
 ## Data Cleaning & Transformation
 
-Data cleaning was limited too adjusting formatting and filtering data. Instances of null values were not included visualizations or calculations.  
+Data cleaning was limited too adjusting formatting and filtering data. Instances of null values were not included in visualizations or calculations.  
 
 The original data set included the numeric data-- the percent of spending in each category-- in 2 formats  labeled "Value Numeric"  and  "Value String" which is formatted as numeric data and a string being the numeric value rounded to the nearest whole number.  During the data exploration phase, an additional column was created to portray the numeric data as a percentage for ease of interpretation. ("Value Percent")
 
