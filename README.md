@@ -1,5 +1,5 @@
 # WHO_Gov_Spending
-An Excel based project camparing government spending on maternal health with data sourced from the World Health Organization.
+An Excel based project camparing government spending on maternal health with data sourced from the World Health Organization. Special Attention was given to data cleaning, transformation, and Exploratory Analysis. 
 
 
 # Data Exploration & Cleaning
