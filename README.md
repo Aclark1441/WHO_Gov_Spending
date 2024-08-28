@@ -11,7 +11,7 @@ An Excel based project camparing government spending on maternal health with dat
 The following visualizations were used to answer the first question of which countries spent the most in each of the three areas. </br>
 ![ Totals of spending on Reproductive Health 2019.png]( https://github.com/Aclark1441/WHO_Gov_Spending/blob/bfc7722013bdb2b1fe53639ef125da19bf0f5664/Totals%20of%20spending%20on%20Reproductive%20Health%202019.png)
 ![Totals of spending on Contraception 2019.png]( https://github.com/Aclark1441/WHO_Gov_Spending/blob/bfc7722013bdb2b1fe53639ef125da19bf0f5664/Totals%20of%20spending%20on%20Contraception%202019.png)
-![Totals of spending on maternal conditions 2019.png]( https://github.com/Aclark1441/WHO_Gov_Spending/blob/bfc7722013bdb2b1fe53639ef125da19bf0f5664/Totals%20of%20spending%20on%20maternal%20conditions%202019.png}
+![Totals of spending on maternal conditions 2019.png]( https://github.com/Aclark1441/WHO_Gov_Spending/blob/bfc7722013bdb2b1fe53639ef125da19bf0f5664/Totals%20of%20spending%20on%20maternal%20conditions%202019.png)
 
 
 The following visualizations were created to evaluate the correlations between spending on reproductive health or contraception and spending on maternal conditions. 
