@@ -7,7 +7,7 @@ An Excel based project camparing government spending on maternal health with dat
 - Is there a correlation between the percentage of health care spending on reproductive health and maternal conditions?</br>
 - Is there a correlation between the percentage of health care spending on contraceptive and maternal conditions?</br>
 
-#Explaoratory Visualizations
+# Explaoratory Visualizations
 The following visualizations were used to answer the first question if which countries spent the most in each of the three areas. </br>
 
 
@@ -33,15 +33,15 @@ Furthermore, the percent of the budget used does not attest to the efficiency of
 ## Data Exploration & Cleaning
 
 
-## Data Acquisition
+# Data Acquisition
 
 The data used in this analysis was downloaded from the WHO Global Health Expenditure Database on December 4th, 2023. [WHO Data Platform](https://platform.who.int/data/maternal-newborn-child-adolescent-ageing)
 
 
-## Data Cleaning & Transformation
+# Data Cleaning & Transformation
 
 Data cleaning was limited too adjusting formatting and filtering data. Instances of null values were not included in visualizations or calculations.  
 
 The original data set included the numeric data-- the percent of spending in each category-- in 2 formats  labeled "Value Numeric"  and  "Value String" which is formatted as numeric data and a string being the numeric value rounded to the nearest whole number.  During the data exploration phase, an additional column was created to portray the numeric data as a percentage for ease of interpretation. ("Value Percent")
 
-A pivot table was then made to group countries spending data. The original data separated each country's spending by the source of funding; government, private, and external aid. Bar graphs created from this pivot table are included ___HERE_____.
+A pivot table was then made to group countries spending data. The original data separated each country's spending by the source of funding; government, private, and external aid. Bar graphs created from this pivot table are included under Exploratory Visualizations.
