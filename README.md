@@ -13,7 +13,7 @@ The following visualizations were used to answer the first question if which cou
 
 The following visualizations were created to evaluate the correlations between spending on reproductive health or contraception and spending on maternal conditions. 
 
-[!Reproductive and Maternal spending with labels.png
+![!Reproductive and Maternal spending with labels.png
 ](https://github.com/Aclark1441/WHO_Gov_Spending/blob/52b7809f02d72a0dbe616b74980402606f2715ae/Reproductive%20and%20Maternal%20spending%20with%20labels.png)
 
 # Results 
