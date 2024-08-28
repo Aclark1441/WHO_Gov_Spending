@@ -15,6 +15,8 @@ The following visualizations were created to evaluate the correlations between s
 
 ![!Reproductive and Maternal spending with labels.png
 ](https://github.com/Aclark1441/WHO_Gov_Spending/blob/52b7809f02d72a0dbe616b74980402606f2715ae/Reproductive%20and%20Maternal%20spending%20with%20labels.png)
+![!Contraception and maternal spending with labels.png](https://github.com/Aclark1441/WHO_Gov_Spending/blob/31c05977ec345c7c53e199dc7d68494045bbdfcf/Contraception%20and%20Maternal%20spending%20with%20labels.png)
+
 
 # Results 
 In regards to a correlation between Reproductive health spending and spending on maternal conditions; There was a slight correlation between the two variables. For most cases, countries spent a similar percentage of their total health expenditures on both supporting reproductive health and treating maternal conditions in 2019.  Countries that stand out from this pattern are Liberia and Comoros who each spent approximately 75% less on treating maternal health conditions than reproductive health. 
