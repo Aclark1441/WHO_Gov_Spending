@@ -9,11 +9,12 @@ An Excel based project camparing government spending on maternal health with dat
 
 #Explaoratory Visualizations
 The following visualizations were used to answer the first question if which countries spent the most in each of the three areas. </br>
-!Reproductive and Maternal spending with labels.png
+
 
 The following visualizations were created to evaluate the correlations between spending on reproductive health or contraception and spending on maternal conditions. 
-<<insert>>
 
+[!Reproductive and Maternal spending with labels.png
+](https://github.com/Aclark1441/WHO_Gov_Spending/blob/52b7809f02d72a0dbe616b74980402606f2715ae/Reproductive%20and%20Maternal%20spending%20with%20labels.png)
 
 # Results 
 In regards to a correlation between Reproductive health spending and spending on maternal conditions; There was a slight correlation between the two variables. For most cases, countries spent a similar percentage of their total health expenditures on both supporting reproductive health and treating maternal conditions in 2019.  Countries that stand out from this pattern are Liberia and Comoros who each spent approximately 75% less on treating maternal health conditions than reproductive health. 
