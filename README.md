@@ -9,7 +9,7 @@ An Excel based project camparing government spending on maternal health with dat
 
 #Explaoratory Visualizations
 The following visualizations were used to answer the first question if which countries spent the most in each of the three areas. 
-<<Insert >>
+Reproductive and Maternal spending with labels.png
 
 The following visualizations were created to evaluate the correlations between spending on reproductive health or contraception and spending on maternal conditions. 
 <<insert>>
